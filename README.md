@@ -1,6 +1,12 @@
 # 🛰️ The Multi Relay Cue Point Transcriber - MRCPT
 
+
+> Get two Cursors Working for you NOW !!
+
 > Transcribe without breaking flow. Play, pause, rewind, fast-forward — never touch your mouse.
+
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 The MRCPT puts a red dot on your screen you control independently of your real cursor. Aim it at your media player once, then use keyboard shortcuts to control playback from anywhere — your hands never leave the keyboard, your eyes never leave your document.
 

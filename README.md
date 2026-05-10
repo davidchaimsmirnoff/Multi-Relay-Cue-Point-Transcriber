@@ -2,7 +2,7 @@
 
 > Transcribe without breaking flow. Play, pause, rewind, fast-forward — never touch your mouse.
 
-CueType puts a red dot on your screen you control independently of your real cursor. Aim it at your media player once, then use keyboard shortcuts to control playback from anywhere — your hands never leave the keyboard, your eyes never leave your document.
+The MRCPT puts a red dot on your screen you control independently of your real cursor. Aim it at your media player once, then use keyboard shortcuts to control playback from anywhere — your hands never leave the keyboard, your eyes never leave your document.
 
 Built for transcriptionists who lose their place every time they reach for the mouse.
 
@@ -13,10 +13,10 @@ Built for transcriptionists who lose their place every time they reach for the m
 No Xcode needed. Just paste this into Terminal:
 
 ```bash
-clang -fobjc-arc -framework Cocoa -framework Carbon -framework Quartz -o CueType main.m && ./CueType
+clang -fobjc-arc -framework Cocoa -framework Carbon -framework Quartz -o MRCPT main.m && ./MRCPT
 ```
 
-> **First launch:** macOS will ask for Accessibility permission. Go to **System Settings → Privacy & Security → Accessibility** and enable CueType. Then run it again.
+> **First launch:** macOS will ask for Accessibility permission. Go to **System Settings → Privacy & Security → Accessibility** and enable MRCPT. Then run it again.
 
 ---
 
@@ -50,7 +50,7 @@ clang -fobjc-arc -framework Cocoa -framework Carbon -framework Quartz -o CueType
 
 ## How it works
 
-Two transparent windows float above everything on screen — a green dashed border to show dot mode is active, and a red dot that tracks your trackpad. When you hit a shortcut, CueType silently moves the system cursor to the dot, fires a clean click with all modifier keys stripped (so it never acts like a ctrl-click), then moves the cursor straight back — invisibly, in under 60ms.
+Two transparent windows float above everything on screen — a green dashed border to show dot mode is active, and a red dot that tracks your trackpad. When you hit a shortcut, The MRCPT silently moves the system cursor to the dot, fires a clean click with all modifier keys stripped (so it never acts like a ctrl-click), then moves the cursor straight back — invisibly, in under 60ms.
 
 ---
 

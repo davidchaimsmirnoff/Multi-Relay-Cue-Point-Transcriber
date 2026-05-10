@@ -9,8 +9,6 @@
 Click Thumbnail Below for Demo Video On YouTube and after Watching The Video Click the Link in the YouTube Description to return back to this Git Hub Repo to dowload the APP below!
 [![Watch Demo](https://img.youtube.com/vi/DU9xxgyxXzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=DU9xxgyxXzo)
 
-Or download/run locally for full experience.
-
 The MRCPT puts a red dot on your screen you control independently of your real cursor. Aim it at your media player once, then use keyboard shortcuts to control playback from anywhere — your hands never leave the keyboard, your eyes never leave your document.
 
 Built for transcriptionists who lose their place every time they reach for the mouse.

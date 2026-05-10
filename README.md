@@ -1,5 +1,9 @@
 # 🛰️ The Multi Relay Cue Point Transcriber - MRCPT
 
+Watch the Toggling Action between the Two Cursors inside the Two Circles on the Screen!!
+<p align="center">
+  <img src="output.gif" width="900"/>
+</p>
 
 > Get two Cursors Working for you NOW !!
 

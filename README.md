@@ -1,4 +1,4 @@
-# 🔗 The Multi Relay Cue Point Transcriber - MRCPT
+# 🛰️ The Multi Relay Cue Point Transcriber - MRCPT
 
 > Transcribe without breaking flow. Play, pause, rewind, fast-forward — never touch your mouse.
 

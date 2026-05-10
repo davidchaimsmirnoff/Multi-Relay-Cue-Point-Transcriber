@@ -6,7 +6,7 @@
 > Transcribe without breaking flow. Play, pause, rewind, fast-forward — never touch your mouse.
 
 ## Demo
-Click Thumbnail Below for Demo Video On YouTube and Click the Link in the Description Below to return back to this Git Hub Repo to dowload the APP below!
+Click Thumbnail Below for Demo Video On YouTube and Click the Link in the YouTube Description to return back to this Git Hub Repo to dowload the APP below!
 [![Watch Demo](https://img.youtube.com/vi/DU9xxgyxXzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=DU9xxgyxXzo)
 
 Or download/run locally for full experience.
